@@ -1,2 +1,3 @@
 # AI-competitiveness
-measure AI competitiveness by patents and papers
+This research measures AI competitiveness by patents and papers.  
+Content will be uploaded soon.
